@@ -11,4 +11,4 @@ wheels/
 .env
 
 # uv
-.ruff_cache/
+.ruff_cache
